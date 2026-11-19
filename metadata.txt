@@ -1,0 +1,17 @@
+[general]
+name=Mulanje Health Facilities
+qgisMinimumVersion=3.16
+description=Manage and map Mulanje District health facilities stored in PostgreSQL/PostGIS
+version=0.1.0
+author=Naomi
+email=msc-inf-s-06-24@unima.ac.mw
+about=Dockless dialog for connecting to a PostgreSQL/PostGIS database, creating the schema, loading TEMPORARY sample health facility data for Mulanje District (Malawi), adding/editing/deleting facilities (with map-click coordinates), loading the layer into QGIS, and running summary and nearest-facility queries.
+tracker=
+repository=
+tags=health,postgis,postgresql,malawi,mulanje
+homepage=
+category=Database
+icon=icon.svg
+experimental=True
+deprecated=False
+hasProcessingProvider=no
